@@ -6,6 +6,7 @@
 
 | 專案 | 做什麼 | 技術重點 |
 |---|---|---|
+| [**citeguard-energy**](https://github.com/ck-x-x/citeguard-energy) | 能源／資料中心液冷文獻調研，報告每句附證據編號，自動剔除捏造引用 | **Dify Workflow**（知識庫＋FastAPI→OpenAlex 平行檢索）、Code 節點引用白名單校驗、Workflow API 自動評測（124 引用 100% 有效、陷阱題 3/3 拒答） |
 | [**financial-report-agent**](https://github.com/ck-x-x/financial-report-agent) | 用中文問美股財報，回答附 SEC 原文連結 | Tool Use Agent、Python 白名單派送、數字查核防幻覺、Groq／Gemini 自動切換 |
 | [**elon-musk-rag-chatbot**](https://github.com/ck-x-x/elon-musk-rag-chatbot) | 繁中知識庫問答聊天機器人 | 依 Markdown 標題切塊、FAISS 向量＋關鍵字混合檢索、安全邊界、自動化測試 |
 
@@ -24,4 +25,4 @@
 
 ### 🛠️ 常用工具
 
-Python · LangChain · FAISS · Groq · Gemini · Gradio · Google Colab · HTML／JavaScript · GitHub Pages
+Python · **Dify** · FastAPI · Docker · Ollama · LangChain · FAISS · Groq · Gemini · Gradio · Google Colab · HTML／JavaScript · GitHub Pages
