@@ -21,4 +21,10 @@
 
 ### 04 / 創作工具箱
 
-Python · **Dify** · FastAPI · Docker · Ollama · LangChain · FAISS · Groq · Gemini · Gradio · Google Colab · HTML／JavaScript · GitHub Pages
+| 類別 | 工具 | 主要用途 |
+| :--- | :--- | :--- |
+| **模型與推論** | `Gemini` `Groq` `Ollama` | 雲端 API 與本地端 LLM 推論 |
+| **AI 應用與檢索** | `Dify` `LangChain` `FAISS` | Agent 工作流編排與向量檢索（RAG） |
+| **後端與介面** | `FastAPI` `Gradio` | API 服務開發與快速 AI Demo 介面 |
+| **語言與前端** | `Python` `HTML／JavaScript` | 核心開發與輕量網頁互動 |
+| **環境與部署** | `Docker` `Google Colab` `GitHub Pages` | 容器化打包、雲端實驗與靜態網站託管 |
