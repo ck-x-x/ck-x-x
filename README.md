@@ -19,6 +19,6 @@
 | [**xinliu-bjj**](https://github.com/ck-x-x/xinliu-bjj) | 巴西柔術互動戰術路徑圖，86 項技術、五大賽事規則查詢 | 先寫規格書再實作、單一 HTML 檔 · [線上試用](https://ck-x-x.github.io/xinliu-bjj/) |
 | [**midnight-diner-atlas**](https://github.com/ck-x-x/midnight-diner-atlas) | 《深夜食堂》料理圖鑑，依部數／類型篩選 | 統一版型、可持續擴充的內容網站 · [網站](https://ck-x-x.github.io/midnight-diner-atlas/) |
 
-### 04 / 常用工具
+### 04 / 創作工具箱
 
 Python · **Dify** · FastAPI · Docker · Ollama · LangChain · FAISS · Groq · Gemini · Gradio · Google Colab · HTML／JavaScript · GitHub Pages
